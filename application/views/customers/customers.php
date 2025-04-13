@@ -38,10 +38,10 @@
 					<table class="table table-center table-hover" id="dataTable">
 						<thead class="thead-light">
 							<tr>
-								<th>Staff</th>
-								<th>Username</th>
-								<th>Type</th>
-								<th>Last Login</th>
+								<th>Name</th>
+								<th>Email</th>
+								<th>Phone</th>
+								<th>Reg Date</th>
 								<th>Status</th>
 								<th class="text-end">Actions</th>
 							</tr>
