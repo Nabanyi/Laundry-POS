@@ -1,4 +1,3 @@
-```markdown
 # Laundry POS - PHP Point of Sale System for Laundry Businesses
 
 Laundry POS is a lightweight and intuitive PHP-based Point of Sale system built specifically for small to medium-sized laundry businesses. Developed as a custom solution for a real laundry shop, it covers all core operations like customer management, order tracking, payments, and service offerings.
@@ -86,5 +85,3 @@ This project is licensed under the MIT License
 ## 💡 Developer
 
 Built with ❤️ by [Nabanyi] for my uncle’s laundry business.
-
-```
